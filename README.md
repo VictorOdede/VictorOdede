@@ -1,5 +1,5 @@
 ### Hi there👋 
-### My name is Victor Odede.
+### My name is Victor.
 ---
 
 I enjoy working on Web Development and Deep Learning projects.
