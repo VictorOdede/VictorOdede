@@ -2,7 +2,7 @@
 ### My name is Victor Odede.
 ---
 
-I enjoy solving problems with code. Specializing in Web Development, Deep Learning and Mobile development.
+I enjoy working on Web Development and Deep Learning projects.
 
 ---
 
