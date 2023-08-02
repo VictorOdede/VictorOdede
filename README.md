@@ -2,7 +2,7 @@
 ### My name is Victor.
 ---
 
-I enjoy working on Software Development and Deep Learning projects.
+I enjoy working on AI and Deep Learning projects.
 
 ---
 
